@@ -46,7 +46,7 @@
   .tb.btn.btn-primary.btn-arrow.btn-next:after {
     display: inline-block;
     content: "";
-    background-image: url("/images/icons/ctaarrow_white@2x.png");
+    background-image: url("../images/icons/ctaarrow_white@2x.png");
     background-size: 9px 16px;
     width: 9px;
     height: 16px;
@@ -57,7 +57,7 @@
   .tb.btn.btn-primary.btn-arrow.btn-prev:before {
     display: inline-block;
     content: "";
-    background-image: url("/images/icons/ctaarrow_white@2x.png");
+    background-image: url("../images/icons/ctaarrow_white@2x.png");
     background-size: 9px 16px;
     width: 9px;
     height: 16px;
@@ -83,7 +83,7 @@
   .tb.btn.btn-secondary.btn-arrow.btn-next:after {
     display: inline-block;
     content: "";
-    background-image: url("/images/icons/ctaarrow-blue@2x.png");
+    background-image: url("../images/icons/ctaarrow-blue@2x.png");
     background-size: 9px 16px;
     width: 9px;
     height: 16px;
@@ -94,7 +94,7 @@
   .tb.btn.btn-secondary.btn-arrow.btn-prev:before {
     display: inline-block;
     content: "";
-    background-image: url("/images/icons/ctaarrow-blue@2x.png");
+    background-image: url("../images/icons/ctaarrow-blue@2x.png");
     background-size: 9px 16px;
     width: 9px;
     height: 16px;

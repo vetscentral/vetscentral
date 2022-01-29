@@ -94,7 +94,7 @@ label.switch span:after {
   margin-top: -13px;
 }
 label.checkbox span {
-  background-image: url('/images/icons/check.png');
+  background-image: url('../images/icons/check.png');
   background-size: 0 0;
   background-repeat: no-repeat;
 }

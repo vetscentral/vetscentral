@@ -364,7 +364,7 @@ body {
     background-image: url("/images/icons/layouts/hangout_vertical_disabled.svg");
   }
   [data-icon="tokbox_logo"] {
-    background-image: url("/images/vc_logo2.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/vetscentral/vetscentral@master/static/images/vc_logo2.png");
     width: 252.2px;
     height: 45px;
   }
